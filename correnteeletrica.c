@@ -19,7 +19,7 @@ float V, R, I;
     scanf("%f",&R);
 
     //operação que será feita
-    I = V*R;
+    I = V/R;
   
     //printa o valor da operação
     printf("A corrente elétrica é igual a: %.2f A\n",I);
