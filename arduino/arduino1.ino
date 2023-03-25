@@ -1,4 +1,4 @@
-[LINK IMAGEM ARDUINO](https://github.com/henriquegnu/codesforcoders/blob/e9bea68539a4b8888a80a5e992641ec234bef51d/arduino/imagens/Atividade%201%20Aula%204.png)
+//LINK IMAGEM ARDUINO https://github.com/henriquegnu/codesforcoders/blob/e9bea68539a4b8888a80a5e992641ec234bef51d/arduino/imagens/Atividade%201%20Aula%204.png)
 /*Crie uma aplicação que possua 4 leds;
 Ao iniciar a aplicação, você deve acionar os leds da esquerda para a direita, cada led deve ficar aceso por 2 segundos;
 Ao chegar ao final você inverter o sentido, fazendo os leds piscarem a cada 1 segundo.*/
