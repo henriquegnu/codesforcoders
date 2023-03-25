@@ -1,3 +1,6 @@
+//Fez um sistema que recebe um dado e dependendo do dado ele aciona um LED específico.
+//LINK DEMONSTRAÇÃO ARDUINO: https://github.com/henriquegnu/codesforcoders/blob/31e720b5405095b5255e21680228a3428e524227/arduino/imagens/Exemplo%201%20Aula%204.png
+
 #define ledVE 3
 #define ledVER 2
 #define ledAZL 4
