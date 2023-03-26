@@ -1,6 +1,8 @@
 # RoadMap de Linguagem C
 
-***Bem-vindo à lista de tópicos de linguagem C***
+***Bem-vindo à lista de tópicos de linguagem C
+Essa lista foi desenvolvida com auxílio do Chat-GPT, inputs do autor do rep.
+***
 
 ## Iniciante 🐣
 
