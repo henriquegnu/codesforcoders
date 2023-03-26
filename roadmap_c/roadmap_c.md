@@ -7,7 +7,7 @@
 ## Iniciante 🐣
 
 1. Estrutura básica de um programa em C
-    - [Declaração de bibliotecas](https://github.com/henriquegnu/codesforcoders/blob/main/roadmap_c/iniciante1.md)
+    - [Declaração de bibliotecas](https://github.com/henriquegnu/codesforcoders/blob/5998aeacddf47b7d573263fd5dc8e8c274aecd41/roadmap_c/iniciante/iniciante1.md)
     - Declaração da função principal (main)
     - Instruções de entrada e saída (scanf, printf)
     - Sintaxe da função principal (tipo de retorno e argumentos)
