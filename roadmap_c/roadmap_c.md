@@ -11,7 +11,7 @@
     - [Declaração da função principal (main)](https://github.com/henriquegnu/codesforcoders/blob/c3bcb816a618452a46c5997e8e2546c47063df83/roadmap_c/iniciante/iniciante2.md)
     - [Instruções de entrada e saída (scanf, printf)](https://github.com/henriquegnu/codesforcoders/blob/4f7d66f7099d584ec1c30dc46c8f378b5edc17f4/roadmap_c/iniciante/iniciante3.md)
     - [Sintaxe da função principal tipo de retorno e argumentos](https://github.com/henriquegnu/codesforcoders/blob/fd5b54ec1833ef3a7fa6430cc6a2c734e263ab1a/roadmap_c/iniciante/iniciante4.md)
-    - Instruções e comentários
+    - [Instruções e comentários](https://github.com/henriquegnu/codesforcoders/blob/3af7591ad4f1dc31103abdcbe8c70d3042a7595f/roadmap_c/iniciante/iniciante5.md)
 
 2. Tipos de dados básicos
     - Inteiros (int)
