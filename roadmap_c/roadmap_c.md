@@ -12,6 +12,7 @@
     - [Instruções de entrada e saída (scanf, printf)](https://github.com/henriquegnu/codesforcoders/blob/4f7d66f7099d584ec1c30dc46c8f378b5edc17f4/roadmap_c/iniciante/iniciante3.md)
     - [Sintaxe da função principal tipo de retorno e argumentos](https://github.com/henriquegnu/codesforcoders/blob/fd5b54ec1833ef3a7fa6430cc6a2c734e263ab1a/roadmap_c/iniciante/iniciante4.md)
     - [Instruções e comentários](https://github.com/henriquegnu/codesforcoders/blob/3af7591ad4f1dc31103abdcbe8c70d3042a7595f/roadmap_c/iniciante/iniciante5.md)
+    - [Estrutura de decisão com testes compostos](https://github.com/henriquegnu/codesforcoders/blob/a49869e5cadb99212dc3af5d3db3487d85cf4a71/roadmap_c/iniciante/iniciante6.md)
 
 2. Tipos de dados básicos
     - Inteiros (int)
