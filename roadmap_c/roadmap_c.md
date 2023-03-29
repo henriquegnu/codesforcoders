@@ -10,7 +10,7 @@
     - [Declaração de bibliotecas](https://github.com/henriquegnu/codesforcoders/blob/5998aeacddf47b7d573263fd5dc8e8c274aecd41/roadmap_c/iniciante/iniciante1.md)
     - [Declaração da função principal (main)](https://github.com/henriquegnu/codesforcoders/blob/c3bcb816a618452a46c5997e8e2546c47063df83/roadmap_c/iniciante/iniciante2.md)
     - [Instruções de entrada e saída (scanf, printf)](https://github.com/henriquegnu/codesforcoders/blob/4f7d66f7099d584ec1c30dc46c8f378b5edc17f4/roadmap_c/iniciante/iniciante3.md)
-    - Sintaxe da função principal (tipo de retorno e argumentos)
+    - [Sintaxe da função principal tipo de retorno e argumentos](https://github.com/henriquegnu/codesforcoders/blob/fd5b54ec1833ef3a7fa6430cc6a2c734e263ab1a/roadmap_c/iniciante/iniciante4.md)
     - Instruções e comentários
 
 2. Tipos de dados básicos
