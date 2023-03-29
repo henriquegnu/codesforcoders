@@ -2,7 +2,7 @@
 
 ***Bem-vindo à lista de tópicos de linguagem C***
 
-***Essa lista foi desenvolvida com auxílio do Chat-GPT, inputs do autor do rep.***
+***Essa lista foi desenvolvida com auxílio do Chat-GPT, inputs do autor dos autores do rep.***
 
 ## Iniciante 🐣
 
