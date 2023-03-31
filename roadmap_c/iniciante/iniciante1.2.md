@@ -1,5 +1,5 @@
 ## Estrutura básica de um programa em C - tópico 2
-**Declaração de bibliotecas**
+**Declaração de função principal**
 
 A declaração da função principal **(main)** é uma parte fundamental da linguagem de programação C. É através dela que o programa começa a ser executado. A função main() é o ponto de entrada para a execução do programa em C.
 
