@@ -1,4 +1,5 @@
-## Estrutura básica de um programa em C - tópico 4
+## Estrutura básica de um programa em C - tópico 4
+
 **Sintaxe da função principal (tipo de retorno e argumentos)**
 
 A sintaxe da função principal em linguagem C é bastante simples. A função principal é a função que é executada primeiro quando um programa C é executado e é obrigatória em todos os programas C.
