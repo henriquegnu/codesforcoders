@@ -7,15 +7,15 @@
 ## Iniciante 🐣
 
 1. Estrutura básica de um programa em C
-    - [Declaração de bibliotecas](https://github.com/henriquegnu/codesforcoders/blob/5998aeacddf47b7d573263fd5dc8e8c274aecd41/roadmap_c/iniciante/iniciante1.md)
-    - [Declaração da função principal (main)](https://github.com/henriquegnu/codesforcoders/blob/c3bcb816a618452a46c5997e8e2546c47063df83/roadmap_c/iniciante/iniciante2.md)
-    - [Instruções de entrada e saída (scanf, printf)](https://github.com/henriquegnu/codesforcoders/blob/4f7d66f7099d584ec1c30dc46c8f378b5edc17f4/roadmap_c/iniciante/iniciante3.md)
-    - [Sintaxe da função principal tipo de retorno e argumentos](https://github.com/henriquegnu/codesforcoders/blob/fd5b54ec1833ef3a7fa6430cc6a2c734e263ab1a/roadmap_c/iniciante/iniciante4.md)
-    - [Instruções e comentários](https://github.com/henriquegnu/codesforcoders/blob/3af7591ad4f1dc31103abdcbe8c70d3042a7595f/roadmap_c/iniciante/iniciante5.md)
-    - [Estrutura de decisão com testes compostos](https://github.com/henriquegnu/codesforcoders/blob/a49869e5cadb99212dc3af5d3db3487d85cf4a71/roadmap_c/iniciante/iniciante6.md)
+    - [Declaração de bibliotecas](https://github.com/henriquegnu/codesforcoders/blob/c44ce78b9d12949ea6e94ae5580b780e3b1edb69/roadmap_c/iniciante/iniciante1.1.md)
+    - [Declaração da função principal (main)](https://github.com/henriquegnu/codesforcoders/blob/b02e95e76f22ad791a196d1191de70948095f192/roadmap_c/iniciante/iniciante1.2.md)
+    - [Instruções de entrada e saída (scanf, printf)](https://github.com/henriquegnu/codesforcoders/blob/b02e95e76f22ad791a196d1191de70948095f192/roadmap_c/iniciante/iniciante1.3.md)
+    - [Sintaxe da função principal tipo de retorno e argumentos](https://github.com/henriquegnu/codesforcoders/blob/321476e24d1aac4b264ea172fb5cf766e09f584e/roadmap_c/iniciante/iniciante1.4.md)
+    - [Instruções e comentários](https://github.com/henriquegnu/codesforcoders/blob/321476e24d1aac4b264ea172fb5cf766e09f584e/roadmap_c/iniciante/iniciante1.5.md)
+    - [Estrutura de decisão com testes compostos](https://github.com/henriquegnu/codesforcoders/blob/321476e24d1aac4b264ea172fb5cf766e09f584e/roadmap_c/iniciante/iniciante1.6.md)
 
 2. Tipos de dados básicos
-    - Inteiros (int)
+    - [Inteiros (int)](https://github.com/henriquegnu/codesforcoders/blob/63ae5fbe41bc59038a69c6b62105e37f4576d657/roadmap_c/iniciante/iniciante2.1.md)
     - Ponto flutuante (float e double)
     - Caracteres (char)
     - Booleanos (bool)
