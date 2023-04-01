@@ -25,7 +25,7 @@ redes sociais a seguir, sua ajuda além de valiosa é necessária.***
     - [Booleanos (bool)](https://github.com/henriquegnu/codesforcoders/blob/cef3e5f389a5f4f3d066c28a574d99e820a17842/roadmap_c/iniciante/iniciante2.4.md)
 
 3. Variáveis e constantes
-    - Declaração de variáveis
+    - [Declaração de variáveis](https://github.com/henriquegnu/codesforcoders/blob/e5a5f76910d59dade28fbe3ad9eda3edb59940e2/roadmap_c/iniciante/iniciante2.5.md)
     - Atribuição de valores
     - Escopo de variáveis
     - Constantes
