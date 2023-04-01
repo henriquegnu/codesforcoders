@@ -1,8 +1,12 @@
 # RoadMap de Linguagem C
 
-***Bem-vindo à lista de tópicos de linguagem C***
+***Bem-vindo à lista de tópicos de linguagem C by @henriquegnu***   
+***Caso você queira compartilhar, quaisquer conhecimento que tenha***   
+***Por favor, solicite uma pull-request ou entre em contato pelas   
+redes sociais a seguir, sua ajuda além de valiosa é necessária.***
 
-***Essa lista foi desenvolvida com auxílio do Chat-GPT, inputs dos autores do rep.***
+[Instagram - :camera_flash:](https://www.instagram.com/henrrrrriquebraga)   
+[LinkedIn - :technologist:](https://www.linkedin.com/in/henriquegnu)
 
 ## Iniciante 🐣
 
