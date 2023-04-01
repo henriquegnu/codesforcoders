@@ -22,7 +22,7 @@ redes sociais a seguir, sua ajuda além de valiosa é necessária.***
     - [Inteiros (int)](https://github.com/henriquegnu/codesforcoders/blob/63ae5fbe41bc59038a69c6b62105e37f4576d657/roadmap_c/iniciante/iniciante2.1.md)
     - [Ponto flutuante (float e double)](https://github.com/henriquegnu/codesforcoders/blob/db75333a20f83053bede15f127651b3990a6889d/roadmap_c/iniciante/iniciante2.2.md)
     - [Caracteres (char)](https://github.com/henriquegnu/codesforcoders/blob/c06dda4367bdfee1edd728867ef5a51e7e1b90ca/roadmap_c/iniciante/iniciante2.3.md)
-    - Booleanos (bool)
+    - [Booleanos (bool)](https://github.com/henriquegnu/codesforcoders/blob/cef3e5f389a5f4f3d066c28a574d99e820a17842/roadmap_c/iniciante/iniciante2.4.md)
 
 3. Variáveis e constantes
     - Declaração de variáveis
