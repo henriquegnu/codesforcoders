@@ -21,7 +21,7 @@ redes sociais a seguir, sua ajuda além de valiosa é necessária.***
 2. Tipos de dados básicos
     - [Inteiros (int)](https://github.com/henriquegnu/codesforcoders/blob/63ae5fbe41bc59038a69c6b62105e37f4576d657/roadmap_c/iniciante/iniciante2.1.md)
     - [Ponto flutuante (float e double)](https://github.com/henriquegnu/codesforcoders/blob/db75333a20f83053bede15f127651b3990a6889d/roadmap_c/iniciante/iniciante2.2.md)
-    - Caracteres (char)
+    - [Caracteres (char)](https://github.com/henriquegnu/codesforcoders/blob/c06dda4367bdfee1edd728867ef5a51e7e1b90ca/roadmap_c/iniciante/iniciante2.3.md)
     - Booleanos (bool)
 
 3. Variáveis e constantes
