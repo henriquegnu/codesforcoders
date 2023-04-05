@@ -38,6 +38,7 @@ redes sociais a seguir, sua ajuda além de valiosa é necessária.***
     - Operadores lógicos (&&, ||, !)
 
 5. Controle de fluxo (condicionais e loops)
+    - [Estrutura de Repetição (for)](https://github.com/henriquegnu/codesforcoders/blob/04dff41806a7da233ed08e52ab55b30e9b6ccf9f/roadmap_c/iniciante/iniciante5.1.md)
     - Estrutura condicional simples (if)
     - Estrutura condicional composta (if/else)
     - Estrutura de seleção múltipla (switch/case)
