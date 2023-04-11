@@ -45,7 +45,45 @@ int main(void){
 }
 ```
 
+Calcula todos os divisíveis, por de 1 a 10:
 
+```c
+#include <stdio.h>
+
+int main(void){
+  
+  for(int i=0;i<10;i++){
+    if(i%2==0)
+      printf("\n %d",i);
+  }
+}
+```
+
+Exemplo para cálculo de receita e despesa trimestral:
+
+```c
+#include <stdio.h>
+
+int main(void){
+  float receita, despesa, balanco=0;
+  
+  for(int i=0;i<3;i++){
+    printf("\nDigite a receita do mês: ");
+    scanf("%f",&receita);
+
+    printf("Digite a despesa do mês: ");
+    scanf("%f",&despesa);
+
+    balanco=balanco+(receita-despesa);
+    
+    printf("Balanco mensal: %.2f\n",balanco);
+  }
+
+  printf("\n\nBalanco trimestral: %.2f",balanco);
+
+  return(0);
+}
+```
 
 Ficou claro?
 
