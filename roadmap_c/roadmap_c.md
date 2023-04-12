@@ -42,7 +42,7 @@ redes sociais a seguir, sua ajuda além de valiosa é necessária.***
     - Estrutura condicional simples (if)
     - Estrutura condicional composta (if/else)
     - Estrutura de seleção múltipla (switch/case)
-    - Loop while
+    - [Loop while](https://github.com/henriquegnu/codesforcoders/blob/ae883f3daa74238422d17ab7180e21525605ebe3/roadmap_c/iniciante/iniciante5.5.md)
     - Loop do/while
     - Loop for
     - Instruções break e continue
