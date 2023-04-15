@@ -3,7 +3,9 @@
 ***Bem-vindo à lista de tópicos de linguagem C by @henriquegnu***   
 ***Caso você queira compartilhar, quaisquer conhecimento que tenha***   
 ***Por favor, solicite uma pull-request ou entre em contato pelas   
-redes sociais a seguir, sua ajuda além de valiosa é necessária.***
+redes sociais a seguir, sua ajuda além de valiosa é necessária.
+
+Vou passar uns dias utilizando o VSCode no modo light***
 
 [Instagram - :camera_flash:](https://www.instagram.com/henrrrrriquebraga)   
 [LinkedIn - :technologist:](https://www.linkedin.com/in/henriquegnu)
