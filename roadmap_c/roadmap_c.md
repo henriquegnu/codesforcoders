@@ -55,6 +55,7 @@ Vou passar uns dias utilizando o VSCode no modo light***
     - Escopo de variáveis em funções
     - Chamada de funções
     - Funções recursivas
+    - Progressão Aritmética 
 
 
 ## Intermediário 🦊
